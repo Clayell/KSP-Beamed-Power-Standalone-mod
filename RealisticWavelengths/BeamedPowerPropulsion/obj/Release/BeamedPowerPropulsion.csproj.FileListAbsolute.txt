@@ -1,0 +1,6 @@
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\BeamedPowerPropulsion\obj\Release\BeamedPowerPropulsion.csproj.AssemblyReference.cache
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\BeamedPowerPropulsion\obj\Release\BeamedPowerPropulsion.csproj.CoreCompileInputs.cache
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\BeamedPowerPropulsion\bin\Release\BeamedPowerPropulsionRW.dll
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\BeamedPowerPropulsion\bin\Release\BeamedPowerPropulsionRW.pdb
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\BeamedPowerPropulsion\obj\Release\BeamedPowerPropulsionRW.dll
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\BeamedPowerPropulsion\obj\Release\BeamedPowerPropulsionRW.pdb

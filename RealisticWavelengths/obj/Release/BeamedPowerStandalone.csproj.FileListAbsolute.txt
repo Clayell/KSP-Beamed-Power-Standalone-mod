@@ -1,0 +1,14 @@
+C:\Users\Clayel\Visual Studio Builds\BeamedPowerStandalone\Extra\BeamedPowerStandaloneRW.dll
+C:\Users\Clayel\Visual Studio Builds\BeamedPowerStandalone\Extra\BeamedPowerStandaloneRW.pdb
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\obj\Release\BeamedPowerStandalone.csproj.AssemblyReference.cache
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\obj\Release\BeamedPowerStandalone.csproj.CoreCompileInputs.cache
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\obj\Release\BeamedPowerStandaloneRW.dll
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\obj\Release\BeamedPowerStandaloneRW.pdb
+C:\Users\Clayel\Visual Studio Builds\BeamedPowerStandalone\Extra\bin\Release\BeamedPowerStandaloneRW.dll
+C:\Users\Clayel\Visual Studio Builds\BeamedPowerStandalone\Extra\bin\Release\BeamedPowerStandaloneRW.pdb
+C:\Extra\bin\Release\BeamedPowerStandaloneRW.dll
+C:\Extra\bin\Release\BeamedPowerStandaloneRW.pdb
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\Extra\bin\Release\BeamedPowerStandaloneRW.dll
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\Extra\bin\Release\BeamedPowerStandaloneRW.pdb
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\bin\Release\BeamedPowerStandaloneRW.dll
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\RealisticWavelengths\bin\Release\BeamedPowerStandaloneRW.pdb

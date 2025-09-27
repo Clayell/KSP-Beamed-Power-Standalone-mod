@@ -1,0 +1,8 @@
+C:\Users\Clayel\BeamedPowerStandalone\Plugins\BeamedPowerStandalone.dll
+C:\Users\Clayel\BeamedPowerStandalone\Plugins\BeamedPowerStandalone.pdb
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\obj\Release\BeamedPowerStandalone.csproj.AssemblyReference.cache
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\obj\Release\BeamedPowerStandalone.csproj.CoreCompileInputs.cache
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\obj\Release\BeamedPowerStandalone.dll
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\obj\Release\BeamedPowerStandalone.pdb
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\bin\Release\BeamedPowerStandalone.dll
+C:\Users\Clayel\Visual Studio Builds\KSP-Beamed-Power-Standalone-mod\bin\Release\BeamedPowerStandalone.pdb
