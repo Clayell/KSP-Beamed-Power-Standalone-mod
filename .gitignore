@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BeamedPowerPropulsion/.vs
+/RealisticWavelengths/.vs
+/RealisticWavelengths/BeamedPowerPropulsion/.vs
